@@ -1,5 +1,5 @@
 {
-  "name": "test-package-1234",
+  "name": "corymhall-plugin-package",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
